@@ -34,3 +34,14 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+PathFinderFDProject/bin/expressInstall.swf
+PathFinderFDProject/bin/index.html
+PathFinderFDProject/bin/js/swfobject.js
+PathFinderFDProject/bin/PathFinderFDProject.swf
+PathFinderFDProject/obj/PathFinderFDProjectConfig.old
+PathFinderFDProject/obj/PathFinderFDProjectConfig.xml
+PathFinderFDProject/PathFinderFDProject.as3proj
+PathFinderFDProject/PathFinderFDProject.lxml
+PathFinderFDProject/src/com/vec2d/License.txt
+PathFinderFDProject/src/Main.as
